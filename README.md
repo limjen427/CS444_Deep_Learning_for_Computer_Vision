@@ -17,8 +17,10 @@ Implementing multi-layer neural networks and backpropagation for image reconstru
 
 ### Assignment 3: Self-supervised and Transfer Learning, Object Detection
 - Part 1: Self-supervised Learning on CIFAR10
+
   Utilize PyTorch to train a model on a self-supervised rotation prediction task on the CIFAR10 dataset. Fine-tune a subset of the model's weights and train the model in a fully supervised setting with different weight initializations. Implement ResNet18 architecture and perform image rotation prediction. Fine-tune the model's weights for CIFAR10 classification. Train the full network for CIFAR10 classification.
 - Part 2: YOLO Object Detection on PASCAL VOC
+
   Implement a YOLO-like object detector on the PASCAL VOC 2007 dataset. Focus on implementing the loss function of YOLO and utilize the provided pre-trained network structure.
 
 ### Assignment 4: Cat Face Generation with GANs
