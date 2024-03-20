@@ -13,7 +13,7 @@ Welcome to the repository for my completed CS444 Deep Learning for Computer Visi
 Implementing linear classifiers(logistic regression, perceptron, SVM, softmax) and applying them to two datasets: Rice dataset (binary classification) and Fashion-MNIST (multi-class image classification). Gain experience in hyperparameter tuning and proper data splits.
 
 ### Assignment 2: Multi-Layer Neural Networks
-Implementing multi-layer neural networks and backpropagation for image reconstruction based on pixel coordinates. Train a four-layer network using SGD and Adam optimizers. Implement forward and backward passes to minimize mean square error (MSE) loss between original and reconstructed images. Explore different forms of input feature mapping as outlined in [this paper] (https://bmild.github.io/fourfeat/) to improve image reconstruction.
+Implementing multi-layer neural networks and backpropagation for image reconstruction based on pixel coordinates. Train a four-layer network using SGD and Adam optimizers. Implement forward and backward passes to minimize mean square error (MSE) loss between original and reconstructed images. Explore different forms of input feature mapping as outlined in [this paper](https://bmild.github.io/fourfeat/) to improve image reconstruction.
 
 ### Assignment 3: Self-supervised and Transfer Learning, Object Detection
 - Part 1: Self-supervised Learning on CIFAR10
