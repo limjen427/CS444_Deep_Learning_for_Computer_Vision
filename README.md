@@ -34,6 +34,3 @@ Implementing adversarial attacks on pre-trained classifiers.
 Basic Attack Methods: Implement Fast Gradient Sign (FGSM), Iterative Gradient Sign, and Least Likely Class Methods. 
 Implement universal adversarial perturbations, defenses against adversarial attacks, robust training, robust architectures, preprocessing input images, and robustness to non-adversarial distribution change.
 
----
-
-Thank you for visiting my repository. Feel free to explore each assignment for detailed implementation and results. If you have any questions or suggestions, please don't hesitate to reach out.
